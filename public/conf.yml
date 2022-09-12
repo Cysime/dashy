@@ -1,8 +1,8 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: Yukiakari Portal
+  description: 冰布子的服务传送门
   navLinks:
   - title: GitHub
     path: https://github.com/Lissy93/dashy
