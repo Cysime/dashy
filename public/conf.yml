@@ -12,9 +12,9 @@ appConfig:
   language: cn
   customColors:
     glow:
-      primary: '#e8eae1'
-      background: '#0b1021'
-      background-darker: '#05070e'
+      primary: '#5c6da9'
+      background: '#f6f6f6'
+      background-darker: '#fff'
   startingView: default
   defaultOpeningMethod: newtab
   statusCheck: true
